@@ -1,0 +1,24 @@
+{
+  "name": "webpack-republish-largennumber",
+  "version": "0.0.1",
+  "description": "大整数相加",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamthen/webpack-republish-largenNumber.git"
+  },
+  "keywords": [
+    "大整数",
+    "add",
+    "相加"
+  ],
+  "author": "Gary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dreamthen/webpack-republish-largenNumber/issues"
+  },
+  "homepage": "https://github.com/dreamthen/webpack-republish-largenNumber#readme"
+}
