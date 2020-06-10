@@ -1,6 +1,6 @@
 {
   "name": "webpack-republish-largennumber",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "大整数相加",
   "main": "index.js",
   "scripts": {
