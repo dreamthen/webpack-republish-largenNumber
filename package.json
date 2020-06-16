@@ -1,12 +1,15 @@
 {
   "name": "webpack-republish-largennumber",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "大整数相加",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
     "prepublish": "webpack"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",

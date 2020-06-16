@@ -13,7 +13,10 @@ module.exports = {
     output: {
         publicPath: PUBLIC_DIR,
         path: BUILD_DIR,
-        filename: '[name].js'
+        filename: '[name].js',
+        library: 'largeNumber',
+        libraryTarget: 'umd',
+        libraryExport: 'default'
     },
     optimization: {
         minimize: true,
